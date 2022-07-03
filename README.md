@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning to code for two years, after switching careers and have completely fallen in love with it. I Started with HTML, CSS, PHP, and JavaScript, but have most recently found a passion for Java. For my current job I have also stated to learn how to create C# UWP Applications.
+I've been learning to code for two years, after switching careers and have completely fallen in love with it. I Started with HTML, CSS, PHP, and JavaScript, but have most recently found a passion for Java. For my current job I have also started to learn how to create C# UWP Applications.
 
 * 🌍  I'm based in Nottingham
 * ✉️  You can contact me at [chrisprior1996@hotmail.co.uk](mailto:chrisprior1996@hotmail.co.uk)
