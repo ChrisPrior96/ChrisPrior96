@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Nottingham
 * ✉️  You can contact me at [chrisprior1996@hotmail.co.uk](mailto:chrisprior1996@hotmail.co.uk)
 * 🧠  I'm learning Java and C#
-* ⚡  Currently in my 2nd year of a BSc Computer Science
+* ⚡  Currently in my 3rd year of a BSc Computer Science
 
 ### Skills
 
